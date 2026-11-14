@@ -1,0 +1,3 @@
+node_modules
+# o "banco de dados" (arquivo json) é criado sozinho quando o servidor roda
+data/db.json
